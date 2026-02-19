@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# this is a script to install,enable and check the status of nginx
 sudo apt-get update -y
 
 sudo apt-get install nginx -y
