@@ -1,6 +1,6 @@
 ## This devOps nginx demo 
 I am learning GIT
-## INTRO 
+## Intro
 
 This project helps you to install nginx on linux and then show a demo page
 
