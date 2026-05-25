@@ -12,5 +12,5 @@ sudo apt-get install nginx
 sudo systemctl start nginx
 sudo systemctl enable nginx
 
-Webpage is kept at /var/www/nginx
+Webpage is kept at /usr/share/nginx/html
 I am  very happily learning Devops
